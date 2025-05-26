@@ -85,7 +85,11 @@ const routes: Routes = [
         data: { hideToolbar: true }
       }
     ]
+  },  {
+    path: 'patient-notification',
+    loadChildren: () => import('./patient-notification/patient-notification.module').then( m => m.PatientNotificationPageModule)
   },
+
  
 
 ];

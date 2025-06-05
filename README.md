@@ -60,4 +60,4 @@ The app also includes:
 - Clone the repository:  
   ```bash
   git clone https://github.com/ghaidachebbi/medical-cabinet-mobile-app.git
-![Capture d'écran 2025-06-05 103939](https://github.com/user-attachments/assets/ac902037-68a7-4eb3-99a8-f62281e5a5b4)
+![Capture d'écran 2025-06-05 103939](https://github.com/user-attachments/assets/833d8e65-3b0c-4f25-89df-9ed6d8e2e07a)

@@ -1,63 +1,62 @@
 # 🏥 Medical Cabinet Mobile App
 
-## 📚 Contexte
+## 📚 Context
 
-J’ai développé cette application mobile multiplateforme dans le cadre d’un projet visant à faciliter la gestion des cabinets médicaux.  
-L’application permet aux patients et au personnel médical de gérer les rendez-vous, les consultations, et les échanges de documents médicaux.
+I developed this cross-platform mobile application as part of a project to streamline the management of medical offices.  
+The app enables patients and medical staff to manage appointments, consultations, and medical document exchanges efficiently.
 
-## 📱 Description de l'application
+## 📱 Application Description
 
-Cette application offre une interface dédiée à chaque type d’utilisateur :
+This app provides dedicated interfaces for each user type:
 
-- 👩‍⚕️ **Patients** :  
-  - Prise de rendez-vous  
-  - Envoi et suivi des documents médicaux  
-  - Consultation de l’historique médical  
-  - Notifications personnalisées  
-  - 💬 Messagerie sécurisée pour communiquer directement avec les médecins  
+- 👩‍⚕️ **Patients:**  
+  - Appointment booking  
+  - Uploading and tracking medical documents  
+  - Viewing medical history  
+  - Personalized notifications  
+  - 💬 Secure messaging to communicate directly with doctors  
 
-- 👨‍⚕️ **Personnel médical** :  
-  - Gestion des rendez-vous (acceptation, modification, annulation)  
-  - Consultation et annotation des documents médicaux  
-  - Enregistrement des diagnostics et prescriptions  
-  - Gestion du planning  
-  - 💬 Messagerie sécurisée pour échanger avec les patients  
+- 👨‍⚕️ **Medical Staff:**  
+  - Managing appointments (accept, modify, cancel)  
+  - Viewing and annotating medical documents  
+  - Recording diagnoses and prescriptions  
+  - Scheduling management  
+  - 💬 Secure messaging to communicate with patients  
 
-### Technologies utilisées
+### Technologies Used
 
-- ⚛️ Frontend : Ionic 6 avec Angular  
-- 🐍 Backend : Python Flask  
-- 🍃 Base de données : MongoDB  
-- 💾 Stockage des fichiers : SQLite  
-- 🔔 Notifications : Firebase Cloud Messaging (FCM)  
-- 🔐 Sécurité : Authentification OAuth (email/mot de passe, Google, etc.)  
+- ⚛️ Frontend: Ionic 6 with Angular  
+- 🐍 Backend: Python Flask  
+- 🍃 Database: MongoDB  
+- 💾 File Storage: SQLite  
+- 🔔 Notifications: Firebase Cloud Messaging (FCM)  
+- 🔐 Security: OAuth Authentication (email/password, Google, etc.)  
 
-L’application intègre également :  
-- 🛡️ Messagerie sécurisée entre patients et médecins  
-- 📄 Export PDF des diagnostics/documents  
-- 📊 Statistiques sur l’activité du cabinet  
+The app also includes:  
+- 🛡️ Secure messaging between patients and doctors  
+- 📄 PDF export of diagnostics and documents  
+- 📊 Statistics on clinic activities  
 
-## 🚀 Fonctionnalités
+## 🚀 Features
 
-### Pour les patients
+### For Patients
 
-- 📅 Consultation des créneaux disponibles et prise de rendez-vous  
-- 📤 Envoi et suivi des documents médicaux  
-- 🗂️ Historique des rendez-vous, diagnostics et prescriptions  
-- ⏰ Notifications pour rappels et consultations de documents  
-- 💬 Messagerie sécurisée pour communiquer avec les médecins  
+- 📅 View available time slots and book appointments  
+- 📤 Upload and track medical documents  
+- 🗂️ View history of appointments, diagnoses, and prescriptions  
+- ⏰ Receive reminders and document consultation notifications  
+- 💬 Secure messaging with doctors  
 
-### Pour le personnel médical
+### For Medical Staff
 
-- 📆 Gestion complète des rendez-vous via un calendrier interactif  
-- 📝 Accès, annotation et gestion des documents médicaux  
-- 💊 Enregistrement des diagnostics et prescriptions liés aux consultations  
-- 🛠️ Gestion du profil et des disponibilités  
-- 💬 Messagerie sécurisée pour échanger avec les patients  
+- 📆 Full appointment management with interactive calendar  
+- 📝 Access, annotate, and manage medical documents  
+- 💊 Record diagnoses and prescriptions per consultation  
+- 🛠️ Manage profile and availability  
+- 💬 Secure messaging with patients  
 
-## ⚙️ Installation et utilisation
+## ⚙️ Installation & Usage
 
-- Clonez le dépôt :  
+- Clone the repository:  
   ```bash
   git clone https://github.com/ghaidachebbi/medical-cabinet-mobile-app.git
-

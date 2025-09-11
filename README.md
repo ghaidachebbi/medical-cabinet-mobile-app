@@ -68,19 +68,20 @@ Developed with ❤️ by an enthusiast of technology and insurance.
 
 <!-- Première ligne d'images -->
 <p float="left">
-<img width="451" height="792" alt="Capture d'écran 2025-09-06 105033" src="https://github.com/user-attachments/assets/422d196a-e4cd-4a23-b32d-caf797cab41c" />
-<img width="448" height="791" alt="Capture d'écran 2025-09-06 105226" src="https://github.com/user-attachments/assets/3a6fc941-7afc-46c0-ac61-6a5a32982758" />
-<img width="447" height="795" alt="Capture d'écran 2025-09-06 105311" src="https://github.com/user-attachments/assets/7f02b4c0-9289-424e-9af8-13bf31c5fb1a" />
-<img width="451" height="797" alt="Capture d'écran 2025-09-06 110537" src="https://github.com/user-attachments/assets/835227c9-8900-49ec-b63b-7bfec09e0cc2" />
-<img width="446" height="788" alt="Capture d'écran 2025-09-06 105352" src="https://github.com/user-attachments/assets/d0340690-1cc5-4239-9c51-5c6745cb7cb6" />
-<img width="448" height="783" alt="Capture d'écran 2025-09-06 105449" src="https://github.com/user-attachments/assets/947c36f1-4324-471c-b413-65e09309a405" />
-<img width="447" height="788" alt="Capture d'écran 2025-09-06 105508" src="https://github.com/user-attachments/assets/1a240928-e0bc-40a6-9546-63e376c226e8" />
-<img width="447" height="791" alt="Capture d'écran 2025-09-06 105532" src="https://github.com/user-attachments/assets/30195434-c27b-4f4b-8509-f3441bc9ae0c" />
-<img width="447" height="791" alt="Capture d'écran 2025-09-06 105532" src="https://github.com/user-attachments/assets/6b83da4f-66ea-4465-b041-29fbdcd2dc40" />
-<img width="446" height="797" alt="Capture d'écran 2025-09-06 105728" src="https://github.com/user-attachments/assets/ff1ca5b4-8efe-4bbd-9a87-755386f3d6a0" />
-<img width="448" height="791" alt="Capture d'écran 2025-09-06 105618" src="https://github.com/user-attachments/assets/56bf4687-7e85-4c65-a7ef-e83de1384682" />
-<img width="446" height="800" alt="Capture d'écran 2025-09-06 105749" src="https://github.com/user-attachments/assets/f4d31885-c5f7-4f28-8641-49c147146148" />
-<img width="450" height="795" alt="Capture d'écran 2025-09-06 110033" src="https://github.com/user-attachments/assets/9a289ded-4201-4a6d-856c-3f60c70c0761" />
+<img width="451" height="400" alt="Capture d'écran 2025-09-06 105033" src="https://github.com/user-attachments/assets/422d196a-e4cd-4a23-b32d-caf797cab41c" />
+<img width="448" height="400" alt="Capture d'écran 2025-09-06 105226" src="https://github.com/user-attachments/assets/3a6fc941-7afc-46c0-ac61-6a5a32982758" />
+<img width="447" height="400" alt="Capture d'écran 2025-09-06 105311" src="https://github.com/user-attachments/assets/7f02b4c0-9289-424e-9af8-13bf31c5fb1a" />
+<img width="451" height="400" alt="Capture d'écran 2025-09-06 110537" src="https://github.com/user-attachments/assets/835227c9-8900-49ec-b63b-7bfec09e0cc2" />
+<img width="446" height="400" alt="Capture d'écran 2025-09-06 105352" src="https://github.com/user-attachments/assets/d0340690-1cc5-4239-9c51-5c6745cb7cb6" />
+<img width="448" height="400" alt="Capture d'écran 2025-09-06 105449" src="https://github.com/user-attachments/assets/947c36f1-4324-471c-b413-65e09309a405" />
+<img width="447" height="400" alt="Capture d'écran 2025-09-06 105508" src="https://github.com/user-attachments/assets/1a240928-e0bc-40a6-9546-63e376c226e8" />
+<img width="447" height="400" alt="Capture d'écran 2025-09-06 105532" src="https://github.com/user-attachments/assets/30195434-c27b-4f4b-8509-f3441bc9ae0c" />
+<img width="447" height="400" alt="Capture d'écran 2025-09-06 105532" src="https://github.com/user-attachments/assets/6b83da4f-66ea-4465-b041-29fbdcd2dc40" />
+<img width="446" height="400" alt="Capture d'écran 2025-09-06 105728" src="https://github.com/user-attachments/assets/ff1ca5b4-8efe-4bbd-9a87-755386f3d6a0" />
+<img width="448" height="400" alt="Capture d'écran 2025-09-06 105618" src="https://github.com/user-attachments/assets/56bf4687-7e85-4c65-a7ef-e83de1384682" />
+<img width="446" height="400" alt="Capture d'écran 2025-09-06 105749" src="https://github.com/user-attachments/assets/f4d31885-c5f7-4f28-8641-49c147146148" />
+<img width="450" height="400" alt="Capture d'écran 2025-09-06 110033" src="https://github.com/user-attachments/assets/9a289ded-4201-4a6d-856c-3f60c70c0761" />
 </p>
+
 
 

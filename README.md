@@ -60,7 +60,8 @@ The app also includes:
 - Clone the repository:  
   ```bash
   git clone https://github.com/ghaidachebbi/medical-cabinet-mobile-app.git
- ```
+  ```
+  
 AssurBot – Your trusted partner for simplified and intelligent insurance.
 
 Developed with ❤️ by an enthusiast of technology and insurance.
@@ -80,12 +81,6 @@ Developed with ❤️ by an enthusiast of technology and insurance.
 <img width="448" height="791" alt="Capture d'écran 2025-09-06 105618" src="https://github.com/user-attachments/assets/56bf4687-7e85-4c65-a7ef-e83de1384682" />
 <img width="446" height="800" alt="Capture d'écran 2025-09-06 105749" src="https://github.com/user-attachments/assets/f4d31885-c5f7-4f28-8641-49c147146148" />
 <img width="450" height="795" alt="Capture d'écran 2025-09-06 110033" src="https://github.com/user-attachments/assets/9a289ded-4201-4a6d-856c-3f60c70c0761" />
-
-
-
-
-
-
-
 </p>
+
 
